@@ -1,22 +1,22 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on projects involving...
-      - Data Science
-      - Financial analysis
-      - Audio processing
-      - Automation
-      - Geo spatial analysis
-      - Web application development
-      - Data Analysis
-      - Cloud based applications
-      - Machine learning
+      * Data Science
+      * Financial analysis
+      * Audio processing
+      * Automation
+      * Geo spatial analysis
+      * Web application development
+      * Data Analysis
+      * Cloud based applications
+      * Machine learning
       
 - 👯 I’m looking to collaborate on ...
-      - machine learning projects(development or research)
-      - AI projects    
+      * machine learning projects(development or research)
+      * AI projects    
 
 - 📫 How to reach me: ...
       https://www.linkedin.com/in/appan-merari/
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blockchainamm&hide=html,css&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blockchainamm&hide=html,css,jupyter%20notebook&theme=tokyonight)
 
