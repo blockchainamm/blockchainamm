@@ -14,10 +14,13 @@
 - 👯 I’m looking to collaborate on ...\
       * machine learning projects(development or research)\
       * AI projects\
-      * Cloud native applications\    
+      * Cloud native applications    
 
 - 📫 How to reach me: ...\
-  [Linkedin] (https://www.linkedin.com/in/appan-merari).
+  [[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/appan-merari/"
  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blockchainamm&hide=html,css,jupyter%20notebook&theme=tokyonight)
