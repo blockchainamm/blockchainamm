@@ -15,8 +15,9 @@
       * machine learning projects(development or research)
       * AI projects    
 
-- 📫 How to reach me: ... [Linkedin] (https://www.linkedin.com/in/appan-merari).
-  ** [Linkedin] (https://www.linkedin.com/in/appan-merari/).
+- 📫 How to reach me: ...
+  [Linkedin] (https://www.linkedin.com/in/appan-merari).
+ 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blockchainamm&hide=html,css,jupyter%20notebook&theme=tokyonight)
 
