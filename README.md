@@ -1,6 +1,6 @@
 ### Hi there, I'm Appan 👋
 
-## I'm a software engineer 💻, and travel enthusisat 📸!
+## I'm a software engineer 💻 and travel enthusisat 📸!
 
 I enjoy the entire process of find insights from data and developing innovative software applications.
 
@@ -16,10 +16,10 @@ I enjoy the entire process of find insights from data and developing innovative 
       * Cloud based applications
       * Machine learning
       
-## 👯 I’m looking to collaborate on
+## 👯 I’m looking to collaborate on projects in
 
-      * machine learning projects(development or research)
-      * AI projects
+      * machine learning (development or research)
+      * AI
       * Cloud native applications    
 
 ## My GitHub Stats
