@@ -3,20 +3,20 @@
 - 🔭 I’m currently working on projects involving...\
       * Data Science\
       * Financial analysis\
-      * Audio processing__
-      * Automation__
-      * Geo spatial analysis__
-      * Web application development__
-      * Data Analysis__
-      * Cloud based applications__
-      * Machine learning__
+      * Audio processing\
+      * Automation\
+      * Geo spatial analysis\
+      * Web application development\
+      * Data Analysis\
+      * Cloud based applications\
+      * Machine learning
       
-- 👯 I’m looking to collaborate on ...
-      * machine learning projects(development or research)__
-      * AI projects__
-      * Cloud native applications__     
+- 👯 I’m looking to collaborate on ...\
+      * machine learning projects(development or research)\
+      * AI projects\
+      * Cloud native applications\    
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: ...\
   [Linkedin] (https://www.linkedin.com/in/appan-merari).
  
 
