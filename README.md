@@ -1,9 +1,8 @@
 ### Hi there, I'm Appan 👋
 
 ## I'm a software engineer 💻, and travel enthusisat 📸!
----
 
-I love the entire process of find insights from data and developing innovative applications.
+I enjoy the entire process of find insights from data and developing innovative software applications.
 
 ## 🔭 I’m currently working on projects involving
 
