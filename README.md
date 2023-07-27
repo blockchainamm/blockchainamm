@@ -18,5 +18,5 @@
 - 📫 How to reach me: ...
       https://www.linkedin.com/in/appan-merari/
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blockchainamm&hide=javascript,css&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blockchainamm&hide=html,css&theme=tokyonight)
 
