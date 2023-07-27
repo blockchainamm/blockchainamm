@@ -24,7 +24,7 @@ I enjoy the entire process of find insights from data and developing innovative 
 
 ## My GitHub Stats
   
-[![Appan’s github stats](https://github-readme-stats.vercel.app/api?username=blockchainamm)](https://github.com/blockchainamm)
+[![Appan’s github stats](https://github-readme-stats.vercel.app/api?username=blockchainamm&theme=tokyonight)](https://github.com/blockchainamm)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blockchainamm&hide=html,css,jupyter%20notebook&theme=tokyonight)
 
