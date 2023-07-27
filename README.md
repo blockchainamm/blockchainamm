@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Appan 👋
 
-- 🔭 I’m currently working on projects involving...\
+## I'm a software engineer 💻, and travel enthusisat 📸!
+---
+
+I love the entire process of find insights from data and developing innovative applications.
+
+- 🔭 I’m currently working on projects involving
+---
       * Data Science\
       * Financial analysis\
       * Audio processing\
@@ -11,17 +17,15 @@
       * Cloud based applications\
       * Machine learning
       
-- 👯 I’m looking to collaborate on ...\
+- 👯 I’m looking to collaborate on
+---
       * machine learning projects(development or research)\
       * AI projects\
       * Cloud native applications    
 
-- 📫 How to reach me: ...\
-  [[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/appan-merari/"
- 
+- My GitHub Stats
+---  
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=blockcainamm)](https://github.com/blockcainamm)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blockchainamm&hide=html,css,jupyter%20notebook&theme=tokyonight)
 
