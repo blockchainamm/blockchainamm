@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on projects involving... __
-      * Data Science__
-      * Financial analysis__
+- 🔭 I’m currently working on projects involving...\
+      * Data Science\
+      * Financial analysis\
       * Audio processing__
       * Automation__
       * Geo spatial analysis__
