@@ -5,8 +5,8 @@
 
 I love the entire process of find insights from data and developing innovative applications.
 
-- 🔭 I’m currently working on projects involving
----
+## 🔭 I’m currently working on projects involving
+
       * Data Science
       * Financial analysis
       * Audio processing
@@ -17,14 +17,14 @@ I love the entire process of find insights from data and developing innovative a
       * Cloud based applications
       * Machine learning
       
-- 👯 I’m looking to collaborate on
----
+## 👯 I’m looking to collaborate on
+
       * machine learning projects(development or research)
       * AI projects
       * Cloud native applications    
 
-- My GitHub Stats
----  
+## My GitHub Stats
+  
 [![Appan’s github stats](https://github-readme-stats.vercel.app/api?username=blockchainamm)](https://github.com/blockchainamm)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blockchainamm&hide=html,css,jupyter%20notebook&theme=tokyonight)
