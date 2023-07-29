@@ -22,7 +22,8 @@ I enjoy the entire process of find insights from data and developing innovative 
 
       * machine learning (development or research)
       * AI
-      * Cloud native applications    
+      * Cloud native applications 
+      * Autonomous guided vehicles
 
 ## My GitHub Stats
   
