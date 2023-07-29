@@ -1,6 +1,6 @@
 ### Hi there, I'm Appan 👋
 
-## I'm a software engineer 💻 and travel enthusisat 📸!
+## I'm a application and software engineer 💻 and travel enthusisat 📸!
 
 I enjoy the entire process of find insights from data and developing innovative software applications.
 
