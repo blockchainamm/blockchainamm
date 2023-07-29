@@ -9,6 +9,8 @@ I enjoy the entire process of find insights from data and developing innovative 
       * Data Science
       * Financial analysis
       * Audio processing
+      * Energy efficiency analysis
+      * Real time sensor data analysis
       * Automation
       * Geo spatial analysis
       * Web application development
