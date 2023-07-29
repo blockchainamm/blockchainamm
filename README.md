@@ -17,6 +17,7 @@ I enjoy the entire process of find insights from data and developing innovative 
       * Data Analysis
       * Cloud based applications
       * Machine learning
+      * Satellite tracking
       
 ## 👯 I’m looking to collaborate on projects in
 
