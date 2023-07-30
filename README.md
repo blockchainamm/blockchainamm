@@ -2,7 +2,8 @@
 
 ## I'm a application and software engineer 💻 and travel enthusisat 📸!
 
-I enjoy the entire process of find insights from data and developing innovative software applications.
+I enjoy the entire process of find insights from data and developing innovative software applications. I am passionate to find innovative solutions in projects involving data science, ML models, data engineering and cloud based applications. To put it shortly, I enjoy the journey until I reach the end goal!
+Process in a nutshell : Build, document, test, deploy, optimise previous steps - Rinse and Repeat and making IT happen!
 
 ## 🔭 I’m currently working on projects involving
 
